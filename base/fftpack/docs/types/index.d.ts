@@ -20,7 +20,8 @@
 
 /* eslint-disable max-lines */
 
-import decompose = require( './../../../../base/fftpack' );
+import decompose = require( './../../../../base/fftpack/decompose' );
+import rffti = require( './../../../../base/fftpack/rffti' );
 
 /**
 * Interface describing the `fftpack` namespace.
@@ -30,6 +31,11 @@ interface Namespace {
 	* TODO
 	*/
 	decompose: typeof decompose;
+
+	/**
+	* TODO
+	*/
+	rffti: typeof rffti;
 }
 
 /**
