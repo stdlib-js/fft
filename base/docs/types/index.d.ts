@@ -27,13 +27,13 @@ import fftpack = require( './../../../base/fftpack' );
 */
 interface Namespace {
 	/**
-	* TODO
+	* fftpack.
 	*/
 	fftpack: typeof fftpack;
 }
 
 /**
-* Base fast Fourier transforms.
+* Base routines for fast Fourier transforms.
 */
 declare var ns: Namespace;
 
