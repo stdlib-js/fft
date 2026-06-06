@@ -76,6 +76,8 @@ var o = ns;
 
 <div class="namespace-toc">
 
+-   <span class="signature">[`base`][@stdlib/fft/base]</span><span class="delimiter">: </span><span class="description">base routines for fast Fourier transforms.</span>
+
 </div>
 
 <!-- </toc> -->
@@ -184,6 +186,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/fft/main/LICENSE
 
 <!-- <toc-links> -->
+
+[@stdlib/fft/base]: https://github.com/stdlib-js/fft/tree/main/base
 
 <!-- </toc-links> -->
 
