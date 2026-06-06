@@ -27,7 +27,7 @@ import base = require( './../../base' );
 */
 interface Namespace {
 	/**
-	* TODO
+	* Base fast Fourier transforms.
 	*/
 	base: typeof base;
 }
