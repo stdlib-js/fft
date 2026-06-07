@@ -27,7 +27,7 @@ import fftpack = require( './../../../base/fftpack' );
 */
 interface Namespace {
 	/**
-	* fftpack.
+	* FFTPACK routines for fast Fourier transforms.
 	*/
 	fftpack: typeof fftpack;
 }
