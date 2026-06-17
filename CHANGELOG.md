@@ -6,12 +6,23 @@
 
 ## Unreleased (2026-06-17)
 
+<section class="features">
+
+### Features
+
+-   [`61cc8a7`](https://github.com/stdlib-js/stdlib/commit/61cc8a7075fa22f699230509bbcb4628e04b41ca) - add `fft/base/fftpack/cffti` [(#12441)](https://github.com/stdlib-js/stdlib/pull/12441)
+
+</section>
+
+<!-- /.features -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`61cc8a7`](https://github.com/stdlib-js/stdlib/commit/61cc8a7075fa22f699230509bbcb4628e04b41ca) - **feat:** add `fft/base/fftpack/cffti` [(#12441)](https://github.com/stdlib-js/stdlib/pull/12441) _(by Gunj Joshi, Athan Reines)_
 -   [`30fc1af`](https://github.com/stdlib-js/stdlib/commit/30fc1afe3d3dbe8b50a93b20291f8efc6c6bdfd0) - **docs:** update notes _(by Athan Reines)_
 -   [`460b9c0`](https://github.com/stdlib-js/stdlib/commit/460b9c0d605091c80b2a1f74b3ac7bb48c337d08) - **docs:** update `fft` TypeScript declarations [(#12658)](https://github.com/stdlib-js/stdlib/pull/12658) _(by stdlib-bot)_
 -   [`2eaed74`](https://github.com/stdlib-js/stdlib/commit/2eaed741444772d3cacb9611bad113a7989394c9) - **docs:** update `fft/base` TypeScript declarations [(#12657)](https://github.com/stdlib-js/stdlib/pull/12657) _(by stdlib-bot)_
@@ -31,9 +42,10 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Gunj Joshi
 -   Philipp Burckhardt
 
 </section>
