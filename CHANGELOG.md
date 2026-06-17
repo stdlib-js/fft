@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-15)
+## Unreleased (2026-06-17)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`30fc1af`](https://github.com/stdlib-js/stdlib/commit/30fc1afe3d3dbe8b50a93b20291f8efc6c6bdfd0) - **docs:** update notes _(by Athan Reines)_
 -   [`460b9c0`](https://github.com/stdlib-js/stdlib/commit/460b9c0d605091c80b2a1f74b3ac7bb48c337d08) - **docs:** update `fft` TypeScript declarations [(#12658)](https://github.com/stdlib-js/stdlib/pull/12658) _(by stdlib-bot)_
 -   [`2eaed74`](https://github.com/stdlib-js/stdlib/commit/2eaed741444772d3cacb9611bad113a7989394c9) - **docs:** update `fft/base` TypeScript declarations [(#12657)](https://github.com/stdlib-js/stdlib/pull/12657) _(by stdlib-bot)_
 -   [`cd24439`](https://github.com/stdlib-js/stdlib/commit/cd2443936ed0aeda7b8436dc9d60daf5c25c9699) - **docs:** update `fft/base` TypeScript declarations [(#12582)](https://github.com/stdlib-js/stdlib/pull/12582) _(by stdlib-bot)_
