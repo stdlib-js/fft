@@ -76,6 +76,15 @@ setReadOnly( ns, 'decompose', require( './../../../base/fftpack/decompose' ) );
 */
 setReadOnly( ns, 'rffti', require( './../../../base/fftpack/rffti' ) );
 
+/**
+* @name sinqi
+* @memberof ns
+* @readonly
+* @type {Function}
+* @see {@link module:@stdlib/fft/base/fftpack/sinqi}
+*/
+setReadOnly( ns, 'sinqi', require( './../../../base/fftpack/sinqi' ) );
+
 
 // EXPORTS //
 
