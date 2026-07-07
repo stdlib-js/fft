@@ -41,6 +41,7 @@
 
 <details>
 
+-   [`1064df2`](https://github.com/stdlib-js/stdlib/commit/1064df276f7f7f0cdb8c08ed99d30d05b2b6742c) - **docs:** update examples [(#13349)](https://github.com/stdlib-js/stdlib/pull/13349) _(by stdlib-bot)_
 -   [`a2ccf2f`](https://github.com/stdlib-js/stdlib/commit/a2ccf2f5f10887c1ca821692cc4e62ee52892572) - **feat:** add `fft/base/fftpack/sinti` [(#13338)](https://github.com/stdlib-js/stdlib/pull/13338) _(by Gunj Joshi, Athan Reines)_
 -   [`9e84993`](https://github.com/stdlib-js/stdlib/commit/9e84993b1f0b52828c9ec431c543a82a4a9a288c) - **fix:** ensure correct twiddle factor placement [(#13170)](https://github.com/stdlib-js/stdlib/pull/13170) _(by Gunj Joshi)_
 -   [`e0a1edb`](https://github.com/stdlib-js/stdlib/commit/e0a1edb522bd6ea43ce3631dfc8355f50911503f) - **feat:** update `fft/base/fftpack` TypeScript declarations [(#13077)](https://github.com/stdlib-js/stdlib/pull/13077) _(by stdlib-bot)_
