@@ -85,6 +85,15 @@ setReadOnly( ns, 'rffti', require( './../../../base/fftpack/rffti' ) );
 */
 setReadOnly( ns, 'sinqi', require( './../../../base/fftpack/sinqi' ) );
 
+/**
+* @name sinti
+* @memberof ns
+* @readonly
+* @type {Function}
+* @see {@link module:@stdlib/fft/base/fftpack/sinti}
+*/
+setReadOnly( ns, 'sinti', require( './../../../base/fftpack/sinti' ) );
+
 
 // EXPORTS //
 
