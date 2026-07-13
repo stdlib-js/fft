@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-12)
+## Unreleased (2026-07-13)
 
 <section class="features">
 
@@ -32,6 +32,7 @@
 
 ### Bug Fixes
 
+-   [`ccb03e3`](https://github.com/stdlib-js/stdlib/commit/ccb03e3017131cda4103abf9636b8527d93100a1) - ensure correct twiddle factor placement in `fft/base/fftpack/sinqi` [(#13459)](https://github.com/stdlib-js/stdlib/pull/13459)
 -   [`9e84993`](https://github.com/stdlib-js/stdlib/commit/9e84993b1f0b52828c9ec431c543a82a4a9a288c) - ensure correct twiddle factor placement [(#13170)](https://github.com/stdlib-js/stdlib/pull/13170)
 
 </section>
@@ -44,6 +45,7 @@
 
 <details>
 
+-   [`ccb03e3`](https://github.com/stdlib-js/stdlib/commit/ccb03e3017131cda4103abf9636b8527d93100a1) - **fix:** ensure correct twiddle factor placement in `fft/base/fftpack/sinqi` [(#13459)](https://github.com/stdlib-js/stdlib/pull/13459) _(by Gunj Joshi)_
 -   [`ce67b15`](https://github.com/stdlib-js/stdlib/commit/ce67b15bf576cd0795cfc6d2775a11537cc23f17) - **feat:** add `fft/base/fftpack/costi` [(#13200)](https://github.com/stdlib-js/stdlib/pull/13200) _(by Gunj Joshi, Athan Reines)_
 -   [`a18ec63`](https://github.com/stdlib-js/stdlib/commit/a18ec63f84f742f4835ddb233749c69b15566204) - **feat:** update `fft/base/fftpack` TypeScript declarations [(#13368)](https://github.com/stdlib-js/stdlib/pull/13368) _(by stdlib-bot)_
 -   [`0cc2c79`](https://github.com/stdlib-js/stdlib/commit/0cc2c79290f4ad7d5a2d25f8a22a20b8e8d58693) - **docs:** update namespace table of contents [(#13369)](https://github.com/stdlib-js/stdlib/pull/13369) _(by stdlib-bot)_
