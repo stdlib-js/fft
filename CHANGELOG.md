@@ -32,6 +32,7 @@
 
 ### Bug Fixes
 
+-   [`bc812d5`](https://github.com/stdlib-js/stdlib/commit/bc812d5050c7e0cc43ecabbec465cbfa44ce8c3a) - ensure correct twiddle factor placement in `fft/base/fftpack/cosqi` [(#13457)](https://github.com/stdlib-js/stdlib/pull/13457)
 -   [`ccb03e3`](https://github.com/stdlib-js/stdlib/commit/ccb03e3017131cda4103abf9636b8527d93100a1) - ensure correct twiddle factor placement in `fft/base/fftpack/sinqi` [(#13459)](https://github.com/stdlib-js/stdlib/pull/13459)
 -   [`9e84993`](https://github.com/stdlib-js/stdlib/commit/9e84993b1f0b52828c9ec431c543a82a4a9a288c) - ensure correct twiddle factor placement [(#13170)](https://github.com/stdlib-js/stdlib/pull/13170)
 
@@ -45,6 +46,7 @@
 
 <details>
 
+-   [`bc812d5`](https://github.com/stdlib-js/stdlib/commit/bc812d5050c7e0cc43ecabbec465cbfa44ce8c3a) - **fix:** ensure correct twiddle factor placement in `fft/base/fftpack/cosqi` [(#13457)](https://github.com/stdlib-js/stdlib/pull/13457) _(by Gunj Joshi)_
 -   [`ccb03e3`](https://github.com/stdlib-js/stdlib/commit/ccb03e3017131cda4103abf9636b8527d93100a1) - **fix:** ensure correct twiddle factor placement in `fft/base/fftpack/sinqi` [(#13459)](https://github.com/stdlib-js/stdlib/pull/13459) _(by Gunj Joshi)_
 -   [`ce67b15`](https://github.com/stdlib-js/stdlib/commit/ce67b15bf576cd0795cfc6d2775a11537cc23f17) - **feat:** add `fft/base/fftpack/costi` [(#13200)](https://github.com/stdlib-js/stdlib/pull/13200) _(by Gunj Joshi, Athan Reines)_
 -   [`a18ec63`](https://github.com/stdlib-js/stdlib/commit/a18ec63f84f742f4835ddb233749c69b15566204) - **feat:** update `fft/base/fftpack` TypeScript declarations [(#13368)](https://github.com/stdlib-js/stdlib/pull/13368) _(by stdlib-bot)_
