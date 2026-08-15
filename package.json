@@ -43,8 +43,10 @@
   },
   "devDependencies": {
     "@stdlib/array": "github:stdlib-js/array#main",
+    "@stdlib/assert": "github:stdlib-js/assert#main",
     "@stdlib/bench": "github:stdlib-js/bench#main",
     "@stdlib/console": "github:stdlib-js/console#main",
+    "@stdlib/ndarray": "github:stdlib-js/ndarray#main",
     "@stdlib/number": "github:stdlib-js/number#main",
     "@stdlib/string": "github:stdlib-js/string#main",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",

@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-02)
+## Unreleased (2026-08-15)
 
 <section class="features">
 
 ### Features
 
+-   [`c0b901f`](https://github.com/stdlib-js/stdlib/commit/c0b901f2aa61b6b7a56c24be582cf8da59a67b99) - add `fft/base/fftpack/ndarray/rffti` [(#13527)](https://github.com/stdlib-js/stdlib/pull/13527)
 -   [`bdfad08`](https://github.com/stdlib-js/stdlib/commit/bdfad08b1b7fab78bc1c6b31c507113b6a82a4b2) - update `fft/base/fftpack` TypeScript declarations [(#13463)](https://github.com/stdlib-js/stdlib/pull/13463)
 -   [`dc7ec06`](https://github.com/stdlib-js/stdlib/commit/dc7ec0603a2705d2fa555fa721c6eee343f0f4b1) - add `costi` to namespace
 -   [`ce67b15`](https://github.com/stdlib-js/stdlib/commit/ce67b15bf576cd0795cfc6d2775a11537cc23f17) - add `fft/base/fftpack/costi` [(#13200)](https://github.com/stdlib-js/stdlib/pull/13200)
@@ -48,6 +49,7 @@
 
 <details>
 
+-   [`c0b901f`](https://github.com/stdlib-js/stdlib/commit/c0b901f2aa61b6b7a56c24be582cf8da59a67b99) - **feat:** add `fft/base/fftpack/ndarray/rffti` [(#13527)](https://github.com/stdlib-js/stdlib/pull/13527) _(by Gunj Joshi, Athan Reines)_
 -   [`462801a`](https://github.com/stdlib-js/stdlib/commit/462801a8eb3659986bb713f55cb923faa976d881) - **docs:** update namespace table of contents [(#13465)](https://github.com/stdlib-js/stdlib/pull/13465) _(by stdlib-bot)_
 -   [`bdfad08`](https://github.com/stdlib-js/stdlib/commit/bdfad08b1b7fab78bc1c6b31c507113b6a82a4b2) - **feat:** update `fft/base/fftpack` TypeScript declarations [(#13463)](https://github.com/stdlib-js/stdlib/pull/13463) _(by stdlib-bot)_
 -   [`dc7ec06`](https://github.com/stdlib-js/stdlib/commit/dc7ec0603a2705d2fa555fa721c6eee343f0f4b1) - **feat:** add `costi` to namespace _(by Athan Reines)_
