@@ -36,16 +36,17 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
+    "@stdlib/blas": "github:stdlib-js/blas#main",
+    "@stdlib/constants": "github:stdlib-js/constants#main",
+    "@stdlib/math": "github:stdlib-js/math#main",
+    "@stdlib/types": "github:stdlib-js/types#main",
     "@stdlib/utils": "github:stdlib-js/utils#main"
   },
   "devDependencies": {
     "@stdlib/array": "github:stdlib-js/array#main",
     "@stdlib/assert": "github:stdlib-js/assert#main",
     "@stdlib/bench": "github:stdlib-js/bench#main",
-    "@stdlib/blas": "github:stdlib-js/blas#main",
     "@stdlib/console": "github:stdlib-js/console#main",
-    "@stdlib/constants": "github:stdlib-js/constants#main",
-    "@stdlib/math": "github:stdlib-js/math#main",
     "@stdlib/ndarray": "github:stdlib-js/ndarray#main",
     "@stdlib/number": "github:stdlib-js/number#main",
     "@stdlib/random": "github:stdlib-js/random#main",

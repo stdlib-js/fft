@@ -1,4 +1,4 @@
-/**
+/*
 * @license Apache-2.0
 *
 * Copyright (c) 2026 The Stdlib Authors.
@@ -16,36 +16,14 @@
 * limitations under the License.
 */
 
-'use strict';
+/* eslint-disable @typescript-eslint/no-unused-expressions */
 
-/*
-* When adding modules to the namespace, ensure that they are added in alphabetical order according to module name.
-*/
-
-// MODULES //
-
-var setReadOnly = require( '@stdlib/utils/define-read-only-property' );
+import ns = require( './index' );
 
 
-// MAIN //
+// TESTS //
 
-/**
-* Top-level namespace.
-*
-* @namespace ns
-*/
-var ns = {};
-
-/**
-* @name base
-* @memberof ns
-* @readonly
-* @type {Namespace}
-* @see {@link module:@stdlib/fft/base}
-*/
-setReadOnly( ns, 'base', require( './../base' ) );
-
-
-// EXPORTS //
-
-module.exports = ns;
+// The exported value is the expected interface...
+{
+	ns; // $ExpectType Namespace
+}
