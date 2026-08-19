@@ -18,24 +18,21 @@
 
 'use strict';
 
-/*
-* When adding modules to the namespace, ensure that they are added in alphabetical order according to module name.
-*/
+var zeros = require( '@stdlib/array/zeros' );
+var discreteUniform = require( '@stdlib/random/array/discrete-uniform' );
+var rffti = require( './../../../../../base/fftpack/generic/rffti' );
+var rfftf = require( './../lib' );
 
-/*
-* The following modules are intentionally not exported: tools
-*/
+var N = 4;
+var opts = {
+	'dtype': 'float64'
+};
+var r = discreteUniform( N, -10, 10, opts );
+var w = zeros( ( 2*N ) + 34 );
 
-// MAIN //
+console.log( r );
 
-/**
-* Top-level namespace.
-*
-* @namespace ns
-*/
-var ns = {};
+rffti( N, w, 1, 0 );
+rfftf( N, r, 1, 0, w, 1, 0 );
 
-
-// EXPORTS //
-
-module.exports = ns;
+console.log( r );

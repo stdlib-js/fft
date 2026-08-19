@@ -18,24 +18,32 @@
 
 'use strict';
 
-/*
-* When adding modules to the namespace, ensure that they are added in alphabetical order according to module name.
-*/
-
-/*
-* The following modules are intentionally not exported: tools
-*/
-
-// MAIN //
-
 /**
-* Top-level namespace.
+* Compute the forward discrete Fourier transform (DFT) of a real-valued sequence.
 *
-* @namespace ns
+* @module @stdlib/fft/base/fftpack/generic/rfftf
+*
+* @example
+* var Float64Array = require( '@stdlib/array/float64' );
+* var rffti = require( '@stdlib/fft/base/fftpack/generic/rffti' );
+* var rfftf = require( '@stdlib/fft/base/fftpack/generic/rfftf' );
+*
+* var N = 4;
+*
+* var w = new Float64Array( ( 2*N ) + 34 );
+* rffti( N, w, 1, 0 );
+*
+* var r = new Float64Array( [ 1.0, 2.0, 3.0, 4.0 ] );
+*
+* rfftf( N, r, 1, 0, w, 1, 0 );
+* // r => <Float64Array>[ 10.0, -2.0, 2.0, -2.0 ]
 */
-var ns = {};
+
+// MODULES //
+
+var main = require( './main.js' );
 
 
 // EXPORTS //
 
-module.exports = ns;
+module.exports = main;
