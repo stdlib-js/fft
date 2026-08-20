@@ -37,22 +37,13 @@ var setReadOnly = require( '@stdlib/utils/define-read-only-property' );
 var ns = {};
 
 /**
-* @name generic
+* @name rffti
 * @memberof ns
 * @readonly
-* @type {Namespace}
-* @see {@link module:@stdlib/fft/base/fftpack/generic}
+* @type {Function}
+* @see {@link module:@stdlib/fft/base/fftpack/ndarray/generic/rffti}
 */
-setReadOnly( ns, 'generic', require( './../../../base/fftpack/generic' ) );
-
-/**
-* @name ndarray
-* @memberof ns
-* @readonly
-* @type {Namespace}
-* @see {@link module:@stdlib/fft/base/fftpack/ndarray}
-*/
-setReadOnly( ns, 'ndarray', require( './../../../base/fftpack/ndarray' ) );
+setReadOnly( ns, 'rffti', require( './../../../../../base/fftpack/ndarray/generic/rffti' ) );
 
 
 // EXPORTS //

@@ -39,6 +39,7 @@
     "@stdlib/blas": "github:stdlib-js/blas#main",
     "@stdlib/constants": "github:stdlib-js/constants#main",
     "@stdlib/math": "github:stdlib-js/math#main",
+    "@stdlib/ndarray": "github:stdlib-js/ndarray#main",
     "@stdlib/types": "github:stdlib-js/types#main",
     "@stdlib/utils": "github:stdlib-js/utils#main"
   },
@@ -47,7 +48,6 @@
     "@stdlib/assert": "github:stdlib-js/assert#main",
     "@stdlib/bench": "github:stdlib-js/bench#main",
     "@stdlib/console": "github:stdlib-js/console#main",
-    "@stdlib/ndarray": "github:stdlib-js/ndarray#main",
     "@stdlib/number": "github:stdlib-js/number#main",
     "@stdlib/random": "github:stdlib-js/random#main",
     "@stdlib/string": "github:stdlib-js/string#main",

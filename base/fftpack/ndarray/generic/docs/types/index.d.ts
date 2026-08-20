@@ -20,20 +20,20 @@
 
 /* eslint-disable max-lines */
 
-import generic = require( './../../../../base/fftpack/generic' );
+import rffti = require( './../../../../../../base/fftpack/generic/rffti' );
 
 /**
-* Interface describing the `fftpack` namespace.
+* Interface describing the `generic` namespace.
 */
 interface Namespace {
 	/**
-	* FFTPACK routines for fast Fourier transforms for "generic" collections.
+	* TODO.
 	*/
-	generic: typeof generic;
+	rffti: typeof rffti;
 }
 
 /**
-* FFTPACK routines for fast Fourier transforms.
+* FFTPACK routines for fast Fourier transforms for "generic" one-dimensional ndarrays.
 */
 declare var ns: Namespace;
 

@@ -20,14 +20,14 @@
 
 /* eslint-disable max-lines */
 
-import generic = require( './../../../../base/fftpack/generic' );
+import generic = require( './../../../../../base/fftpack/ndarray/generic' );
 
 /**
 * Interface describing the `fftpack` namespace.
 */
 interface Namespace {
 	/**
-	* FFTPACK routines for fast Fourier transforms for "generic" collections.
+	* TODO.
 	*/
 	generic: typeof generic;
 }

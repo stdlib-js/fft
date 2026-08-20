@@ -1,4 +1,4 @@
-/*
+/**
 * @license Apache-2.0
 *
 * Copyright (c) 2026 The Stdlib Authors.
@@ -16,28 +16,9 @@
 * limitations under the License.
 */
 
-// TypeScript Version: 4.1
+'use strict';
 
-/* eslint-disable max-lines */
+var objectKeys = require( '@stdlib/utils/keys' );
+var ns = require( './../lib' );
 
-import generic = require( './../../../../base/fftpack/generic' );
-
-/**
-* Interface describing the `fftpack` namespace.
-*/
-interface Namespace {
-	/**
-	* FFTPACK routines for fast Fourier transforms for "generic" collections.
-	*/
-	generic: typeof generic;
-}
-
-/**
-* FFTPACK routines for fast Fourier transforms.
-*/
-declare var ns: Namespace;
-
-
-// EXPORTS //
-
-export = ns;
+console.log( objectKeys( ns ) );

@@ -16,28 +16,14 @@
 * limitations under the License.
 */
 
-// TypeScript Version: 4.1
+/* eslint-disable @typescript-eslint/no-unused-expressions */
 
-/* eslint-disable max-lines */
+import ns = require( './index' );
 
-import generic = require( './../../../../base/fftpack/generic' );
 
-/**
-* Interface describing the `fftpack` namespace.
-*/
-interface Namespace {
-	/**
-	* FFTPACK routines for fast Fourier transforms for "generic" collections.
-	*/
-	generic: typeof generic;
+// TESTS //
+
+// The exported value is the expected interface...
+{
+	ns; // $ExpectType Namespace
 }
-
-/**
-* FFTPACK routines for fast Fourier transforms.
-*/
-declare var ns: Namespace;
-
-
-// EXPORTS //
-
-export = ns;
