@@ -20,16 +20,10 @@
 
 /* eslint-disable max-lines */
 
-import generic = require( './../../../../base/fftpack/generic' );
-
 /**
 * Interface describing the `fftpack` namespace.
 */
-interface Namespace {
-	/**
-	* FFTPACK routines for fast Fourier transforms for "generic" collections.
-	*/
-	generic: typeof generic;
+interface Namespace { // eslint-disable-line @typescript-eslint/no-empty-interface
 }
 
 /**
