@@ -23,11 +23,11 @@
 import generic = require( './../../../../../base/fftpack/ndarray/generic' );
 
 /**
-* Interface describing the `fftpack` namespace.
+* Interface describing the `ndarray` namespace.
 */
 interface Namespace {
 	/**
-	* TODO.
+	* Lower-level ndarray wrappers for generic FFTPACK fast Fourier transform routines.
 	*/
 	generic: typeof generic;
 }
