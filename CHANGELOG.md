@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-21)
+## Unreleased (2026-08-22)
 
 <section class="features">
 
@@ -172,6 +172,7 @@
 
 <details>
 
+-   [`c73f866`](https://github.com/stdlib-js/stdlib/commit/c73f86675a6df924935f57900761dd51424e8c72) - **docs:** use correct format specifier [(#14492)](https://github.com/stdlib-js/stdlib/pull/14492) _(by Gunj Joshi)_
 -   [`129b8c8`](https://github.com/stdlib-js/stdlib/commit/129b8c8376ee75a68500110e4d9be162f8f8b447) - **feat:** add `fft/base/fftpack/float64/decompose` [(#14440)](https://github.com/stdlib-js/stdlib/pull/14440) _(by Gunj Joshi, Athan Reines)_
 -   [`6cfafbb`](https://github.com/stdlib-js/stdlib/commit/6cfafbb810ba060ffe26c685fc7dd177aad3f053) - **feat:** update `fft/base/fftpack/ndarray/generic` TypeScript declarations [(#14461)](https://github.com/stdlib-js/stdlib/pull/14461) _(by stdlib-bot)_
 -   [`1cc6f73`](https://github.com/stdlib-js/stdlib/commit/1cc6f7395e6b120317237eeca0c93b410038f5a8) - **docs:** update description _(by Athan Reines)_
