@@ -27,7 +27,7 @@ import generic = require( './../../../../../base/fftpack/ndarray/generic' );
 */
 interface Namespace {
 	/**
-	* FFTPACK routines for fast Fourier transforms for "generic" one-dimensional ndarrays.
+	* Lower-level ndarray wrappers for generic FFTPACK fast Fourier transform routines.
 	*/
 	generic: typeof generic;
 }
