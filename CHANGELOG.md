@@ -179,6 +179,7 @@
 
 <details>
 
+-   [`86cd981`](https://github.com/stdlib-js/stdlib/commit/86cd981199dc115e9b7484131436c802c3d9a090) - **docs:** update namespace table of contents [(#14552)](https://github.com/stdlib-js/stdlib/pull/14552) _(by stdlib-bot)_
 -   [`f5cb262`](https://github.com/stdlib-js/stdlib/commit/f5cb26250ebd309d0d7bf6d3517f60aec7a651e6) - **feat:** update `fft/base/fftpack/ndarray/generic` TypeScript declarations [(#14550)](https://github.com/stdlib-js/stdlib/pull/14550) _(by stdlib-bot)_
 -   [`d358101`](https://github.com/stdlib-js/stdlib/commit/d358101daea6dddd283b13cd0a1d8e4604faa84f) - **feat:** add `fft/base/fftpack/ndarray/float64/rffti` [(#13919)](https://github.com/stdlib-js/stdlib/pull/13919) _(by Gunj Joshi, Athan Reines)_
 -   [`8cc9874`](https://github.com/stdlib-js/stdlib/commit/8cc9874730f7a11721ff73ad4f4d53f91b4e34a7) - **feat:** add `cffti` to namespace _(by Athan Reines)_
