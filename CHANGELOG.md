@@ -10,6 +10,11 @@
 
 ### Features
 
+-   [`bb426af`](https://github.com/stdlib-js/stdlib/commit/bb426afaa9a112d36c404373d4d632b59a4b20e9) - add `float32` and `float64` to namespace
+-   [`924fac8`](https://github.com/stdlib-js/stdlib/commit/924fac8e6b44b5df2482a709a0b8624f5d8682e5) - add `fft/base/fftpack/float32` namespace
+-   [`00a04aa`](https://github.com/stdlib-js/stdlib/commit/00a04aa41b85986ebcff9dba9f58bd42a36d0b1e) - add `fft/base/fftpack/float64` namespace
+-   [`24bc778`](https://github.com/stdlib-js/stdlib/commit/24bc778d5d4046b21bca6f71aa677433996d50ae) - add `float64` to namespace
+-   [`1b645c2`](https://github.com/stdlib-js/stdlib/commit/1b645c26a16216567334bc25dded1f18d0680a3b) - add `fft/base/fftpack/ndarray/float64` namespace
 -   [`f5cb262`](https://github.com/stdlib-js/stdlib/commit/f5cb26250ebd309d0d7bf6d3517f60aec7a651e6) - update `fft/base/fftpack/ndarray/generic` TypeScript declarations [(#14550)](https://github.com/stdlib-js/stdlib/pull/14550)
 -   [`d358101`](https://github.com/stdlib-js/stdlib/commit/d358101daea6dddd283b13cd0a1d8e4604faa84f) - add `fft/base/fftpack/ndarray/float64/rffti` [(#13919)](https://github.com/stdlib-js/stdlib/pull/13919)
 -   [`8cc9874`](https://github.com/stdlib-js/stdlib/commit/8cc9874730f7a11721ff73ad4f4d53f91b4e34a7) - add `cffti` to namespace
@@ -179,6 +184,11 @@
 
 <details>
 
+-   [`bb426af`](https://github.com/stdlib-js/stdlib/commit/bb426afaa9a112d36c404373d4d632b59a4b20e9) - **feat:** add `float32` and `float64` to namespace _(by Athan Reines)_
+-   [`924fac8`](https://github.com/stdlib-js/stdlib/commit/924fac8e6b44b5df2482a709a0b8624f5d8682e5) - **feat:** add `fft/base/fftpack/float32` namespace _(by Athan Reines)_
+-   [`00a04aa`](https://github.com/stdlib-js/stdlib/commit/00a04aa41b85986ebcff9dba9f58bd42a36d0b1e) - **feat:** add `fft/base/fftpack/float64` namespace _(by Athan Reines)_
+-   [`24bc778`](https://github.com/stdlib-js/stdlib/commit/24bc778d5d4046b21bca6f71aa677433996d50ae) - **feat:** add `float64` to namespace _(by Athan Reines)_
+-   [`1b645c2`](https://github.com/stdlib-js/stdlib/commit/1b645c26a16216567334bc25dded1f18d0680a3b) - **feat:** add `fft/base/fftpack/ndarray/float64` namespace _(by Athan Reines)_
 -   [`86cd981`](https://github.com/stdlib-js/stdlib/commit/86cd981199dc115e9b7484131436c802c3d9a090) - **docs:** update namespace table of contents [(#14552)](https://github.com/stdlib-js/stdlib/pull/14552) _(by stdlib-bot)_
 -   [`f5cb262`](https://github.com/stdlib-js/stdlib/commit/f5cb26250ebd309d0d7bf6d3517f60aec7a651e6) - **feat:** update `fft/base/fftpack/ndarray/generic` TypeScript declarations [(#14550)](https://github.com/stdlib-js/stdlib/pull/14550) _(by stdlib-bot)_
 -   [`d358101`](https://github.com/stdlib-js/stdlib/commit/d358101daea6dddd283b13cd0a1d8e4604faa84f) - **feat:** add `fft/base/fftpack/ndarray/float64/rffti` [(#13919)](https://github.com/stdlib-js/stdlib/pull/13919) _(by Gunj Joshi, Athan Reines)_

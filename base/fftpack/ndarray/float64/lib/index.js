@@ -37,40 +37,13 @@ var setReadOnly = require( '@stdlib/utils/define-read-only-property' );
 var ns = {};
 
 /**
-* @name float32
+* @name rffti
 * @memberof ns
 * @readonly
-* @type {Namespace}
-* @see {@link module:@stdlib/fft/base/fftpack/float32}
+* @type {Function}
+* @see {@link module:@stdlib/fft/base/fftpack/ndarray/float64/rffti}
 */
-setReadOnly( ns, 'float32', require( './../../../base/fftpack/float32' ) );
-
-/**
-* @name float64
-* @memberof ns
-* @readonly
-* @type {Namespace}
-* @see {@link module:@stdlib/fft/base/fftpack/float64}
-*/
-setReadOnly( ns, 'float64', require( './../../../base/fftpack/float64' ) );
-
-/**
-* @name generic
-* @memberof ns
-* @readonly
-* @type {Namespace}
-* @see {@link module:@stdlib/fft/base/fftpack/generic}
-*/
-setReadOnly( ns, 'generic', require( './../../../base/fftpack/generic' ) );
-
-/**
-* @name ndarray
-* @memberof ns
-* @readonly
-* @type {Namespace}
-* @see {@link module:@stdlib/fft/base/fftpack/ndarray}
-*/
-setReadOnly( ns, 'ndarray', require( './../../../base/fftpack/ndarray' ) );
+setReadOnly( ns, 'rffti', require( './../../../../../base/fftpack/ndarray/float64/rffti' ) );
 
 
 // EXPORTS //
