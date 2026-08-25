@@ -72,6 +72,7 @@
 
 ### Bug Fixes
 
+-   [`be6f218`](https://github.com/stdlib-js/stdlib/commit/be6f2184b1659459908028947ab7404588e9a37d) - remove float32 emulation
 -   [`bc812d5`](https://github.com/stdlib-js/stdlib/commit/bc812d5050c7e0cc43ecabbec465cbfa44ce8c3a) - ensure correct twiddle factor placement in `fft/base/fftpack/cosqi` [(#13457)](https://github.com/stdlib-js/stdlib/pull/13457)
 -   [`ccb03e3`](https://github.com/stdlib-js/stdlib/commit/ccb03e3017131cda4103abf9636b8527d93100a1) - ensure correct twiddle factor placement in `fft/base/fftpack/sinqi` [(#13459)](https://github.com/stdlib-js/stdlib/pull/13459)
 -   [`9e84993`](https://github.com/stdlib-js/stdlib/commit/9e84993b1f0b52828c9ec431c543a82a4a9a288c) - ensure correct twiddle factor placement [(#13170)](https://github.com/stdlib-js/stdlib/pull/13170)
@@ -189,6 +190,7 @@
 
 <details>
 
+-   [`be6f218`](https://github.com/stdlib-js/stdlib/commit/be6f2184b1659459908028947ab7404588e9a37d) - **fix:** remove float32 emulation _(by Athan Reines)_
 -   [`f712838`](https://github.com/stdlib-js/stdlib/commit/f712838197d4319a71f06d0adaed9802189aa5ee) - **feat:** add `fft/base/fftpack/ndarray/generic/sinqi` [(#14135)](https://github.com/stdlib-js/stdlib/pull/14135) _(by Gunj Joshi)_
 -   [`2d12ed6`](https://github.com/stdlib-js/stdlib/commit/2d12ed65bc8d184c68a35871fbc2c6b3b7c7385f) - **feat:** add `fft/base/fftpack/ndarray/generic/cosqi` [(#14087)](https://github.com/stdlib-js/stdlib/pull/14087) _(by Gunj Joshi, Athan Reines)_
 -   [`41089c9`](https://github.com/stdlib-js/stdlib/commit/41089c914fb7b15322bbafed35d3b120f17b0ab1) - **feat:** update `fft/base/fftpack/float64` TypeScript declarations [(#14580)](https://github.com/stdlib-js/stdlib/pull/14580) _(by stdlib-bot)_
