@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`2d12ed6`](https://github.com/stdlib-js/stdlib/commit/2d12ed65bc8d184c68a35871fbc2c6b3b7c7385f) - add `fft/base/fftpack/ndarray/generic/cosqi` [(#14087)](https://github.com/stdlib-js/stdlib/pull/14087)
 -   [`41089c9`](https://github.com/stdlib-js/stdlib/commit/41089c914fb7b15322bbafed35d3b120f17b0ab1) - update `fft/base/fftpack/float64` TypeScript declarations [(#14580)](https://github.com/stdlib-js/stdlib/pull/14580)
 -   [`6356b69`](https://github.com/stdlib-js/stdlib/commit/6356b693350de4525827f10128c2ec7594098ce8) - update `fft/base/fftpack` TypeScript declarations [(#14583)](https://github.com/stdlib-js/stdlib/pull/14583)
 -   [`194dcbd`](https://github.com/stdlib-js/stdlib/commit/194dcbd266142900261e3170298936aecbddceec) - update `fft/base/fftpack/ndarray` TypeScript declarations [(#14582)](https://github.com/stdlib-js/stdlib/pull/14582)
@@ -187,6 +188,7 @@
 
 <details>
 
+-   [`2d12ed6`](https://github.com/stdlib-js/stdlib/commit/2d12ed65bc8d184c68a35871fbc2c6b3b7c7385f) - **feat:** add `fft/base/fftpack/ndarray/generic/cosqi` [(#14087)](https://github.com/stdlib-js/stdlib/pull/14087) _(by Gunj Joshi, Athan Reines)_
 -   [`41089c9`](https://github.com/stdlib-js/stdlib/commit/41089c914fb7b15322bbafed35d3b120f17b0ab1) - **feat:** update `fft/base/fftpack/float64` TypeScript declarations [(#14580)](https://github.com/stdlib-js/stdlib/pull/14580) _(by stdlib-bot)_
 -   [`77d4d43`](https://github.com/stdlib-js/stdlib/commit/77d4d43ab30c6f6e6f18d2e712cc1865ded39cae) - **docs:** add JSDoc [(#14579)](https://github.com/stdlib-js/stdlib/pull/14579) _(by stdlib-bot)_
 -   [`6356b69`](https://github.com/stdlib-js/stdlib/commit/6356b693350de4525827f10128c2ec7594098ce8) - **feat:** update `fft/base/fftpack` TypeScript declarations [(#14583)](https://github.com/stdlib-js/stdlib/pull/14583) _(by stdlib-bot)_
