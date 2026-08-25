@@ -45,6 +45,15 @@ var ns = {};
 */
 setReadOnly( ns, 'decompose', require( './../../../../base/fftpack/float32/decompose' ) );
 
+/**
+* @name rffti
+* @memberof ns
+* @readonly
+* @type {Function}
+* @see {@link module:@stdlib/fft/base/fftpack/float32/rffti}
+*/
+setReadOnly( ns, 'rffti', require( './../../../../base/fftpack/float32/rffti' ) );
+
 
 // EXPORTS //
 

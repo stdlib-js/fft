@@ -46,6 +46,15 @@ var ns = {};
 setReadOnly( ns, 'cffti', require( './../../../../../base/fftpack/ndarray/generic/cffti' ) );
 
 /**
+* @name cosqi
+* @memberof ns
+* @readonly
+* @type {Function}
+* @see {@link module:@stdlib/fft/base/fftpack/ndarray/generic/cosqi}
+*/
+setReadOnly( ns, 'cosqi', require( './../../../../../base/fftpack/ndarray/generic/cosqi' ) );
+
+/**
 * @name rffti
 * @memberof ns
 * @readonly
@@ -53,6 +62,15 @@ setReadOnly( ns, 'cffti', require( './../../../../../base/fftpack/ndarray/generi
 * @see {@link module:@stdlib/fft/base/fftpack/ndarray/generic/rffti}
 */
 setReadOnly( ns, 'rffti', require( './../../../../../base/fftpack/ndarray/generic/rffti' ) );
+
+/**
+* @name sinqi
+* @memberof ns
+* @readonly
+* @type {Function}
+* @see {@link module:@stdlib/fft/base/fftpack/ndarray/generic/sinqi}
+*/
+setReadOnly( ns, 'sinqi', require( './../../../../../base/fftpack/ndarray/generic/sinqi' ) );
 
 
 // EXPORTS //

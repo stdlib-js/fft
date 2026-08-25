@@ -10,6 +10,9 @@
 
 ### Features
 
+-   [`8654861`](https://github.com/stdlib-js/stdlib/commit/86548615a074f6e93475822200e291e95ca7761a) - add `rffti` to namespace
+-   [`782bab2`](https://github.com/stdlib-js/stdlib/commit/782bab28a3ac0b9b5cfdbc860dad05bcf23f3d25) - add `cosqi` and `sinqi` to namespace
+-   [`91248c1`](https://github.com/stdlib-js/stdlib/commit/91248c1ce18881e1be702dfc9788c0612c37a966) - add `fft/base/fftpack/float32/rffti` [(#14591)](https://github.com/stdlib-js/stdlib/pull/14591)
 -   [`f712838`](https://github.com/stdlib-js/stdlib/commit/f712838197d4319a71f06d0adaed9802189aa5ee) - add `fft/base/fftpack/ndarray/generic/sinqi` [(#14135)](https://github.com/stdlib-js/stdlib/pull/14135)
 -   [`2d12ed6`](https://github.com/stdlib-js/stdlib/commit/2d12ed65bc8d184c68a35871fbc2c6b3b7c7385f) - add `fft/base/fftpack/ndarray/generic/cosqi` [(#14087)](https://github.com/stdlib-js/stdlib/pull/14087)
 -   [`41089c9`](https://github.com/stdlib-js/stdlib/commit/41089c914fb7b15322bbafed35d3b120f17b0ab1) - update `fft/base/fftpack/float64` TypeScript declarations [(#14580)](https://github.com/stdlib-js/stdlib/pull/14580)
@@ -190,6 +193,9 @@
 
 <details>
 
+-   [`8654861`](https://github.com/stdlib-js/stdlib/commit/86548615a074f6e93475822200e291e95ca7761a) - **feat:** add `rffti` to namespace _(by Athan Reines)_
+-   [`782bab2`](https://github.com/stdlib-js/stdlib/commit/782bab28a3ac0b9b5cfdbc860dad05bcf23f3d25) - **feat:** add `cosqi` and `sinqi` to namespace _(by Athan Reines)_
+-   [`91248c1`](https://github.com/stdlib-js/stdlib/commit/91248c1ce18881e1be702dfc9788c0612c37a966) - **feat:** add `fft/base/fftpack/float32/rffti` [(#14591)](https://github.com/stdlib-js/stdlib/pull/14591) _(by Gunj Joshi, Athan Reines)_
 -   [`be6f218`](https://github.com/stdlib-js/stdlib/commit/be6f2184b1659459908028947ab7404588e9a37d) - **fix:** remove float32 emulation _(by Athan Reines)_
 -   [`f712838`](https://github.com/stdlib-js/stdlib/commit/f712838197d4319a71f06d0adaed9802189aa5ee) - **feat:** add `fft/base/fftpack/ndarray/generic/sinqi` [(#14135)](https://github.com/stdlib-js/stdlib/pull/14135) _(by Gunj Joshi)_
 -   [`2d12ed6`](https://github.com/stdlib-js/stdlib/commit/2d12ed65bc8d184c68a35871fbc2c6b3b7c7385f) - **feat:** add `fft/base/fftpack/ndarray/generic/cosqi` [(#14087)](https://github.com/stdlib-js/stdlib/pull/14087) _(by Gunj Joshi, Athan Reines)_
