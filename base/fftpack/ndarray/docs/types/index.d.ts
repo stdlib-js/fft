@@ -20,18 +20,12 @@
 
 /* eslint-disable max-lines */
 
-import float64 = require( './../../../../../base/fftpack/ndarray/float64' );
 import generic = require( './../../../../../base/fftpack/ndarray/generic' );
 
 /**
 * Interface describing the `ndarray` namespace.
 */
 interface Namespace {
-	/**
-	* Lower-level ndarray wrappers for double-precision floating-point FFTPACK fast Fourier transform routines.
-	*/
-	float64: typeof float64;
-
 	/**
 	* Lower-level ndarray wrappers for generic FFTPACK fast Fourier transform routines.
 	*/
