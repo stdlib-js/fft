@@ -20,6 +20,8 @@
 
 /* eslint-disable max-lines */
 
+import float32 = require( './../../../../base/fftpack/float32' );
+import float64 = require( './../../../../base/fftpack/float64' );
 import generic = require( './../../../../base/fftpack/generic' );
 import ndarray = require( './../../../../base/fftpack/ndarray' );
 
@@ -27,6 +29,16 @@ import ndarray = require( './../../../../base/fftpack/ndarray' );
 * Interface describing the `fftpack` namespace.
 */
 interface Namespace {
+	/**
+	* FFTPACK routines for fast Fourier transforms on single-precision floating-point arrays.
+	*/
+	float32: typeof float32;
+
+	/**
+	* FFTPACK routines for fast Fourier transforms on double-precision floating-point arrays.
+	*/
+	float64: typeof float64;
+
 	/**
 	* FFTPACK routines for fast Fourier transforms on generic collections.
 	*/
