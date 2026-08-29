@@ -4,12 +4,15 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-26)
+## Unreleased (2026-08-29)
 
 <section class="features">
 
 ### Features
 
+-   [`95e749f`](https://github.com/stdlib-js/stdlib/commit/95e749f07da6717d231585bba335bfbf59f10104) - add `fft/base/fftpack/ndarray/float32/rffti` [(#14085)](https://github.com/stdlib-js/stdlib/pull/14085)
+-   [`13d01a9`](https://github.com/stdlib-js/stdlib/commit/13d01a960d64ecbf63628e52451b29cc27505eec) - update `fft/base/fftpack/float32` TypeScript declarations [(#14641)](https://github.com/stdlib-js/stdlib/pull/14641)
+-   [`a97d043`](https://github.com/stdlib-js/stdlib/commit/a97d043bda55fdd63e6d722a4feeb7c062a230d8) - update `fft/base/fftpack/ndarray/generic` TypeScript declarations [(#14642)](https://github.com/stdlib-js/stdlib/pull/14642)
 -   [`8654861`](https://github.com/stdlib-js/stdlib/commit/86548615a074f6e93475822200e291e95ca7761a) - add `rffti` to namespace
 -   [`782bab2`](https://github.com/stdlib-js/stdlib/commit/782bab28a3ac0b9b5cfdbc860dad05bcf23f3d25) - add `cosqi` and `sinqi` to namespace
 -   [`91248c1`](https://github.com/stdlib-js/stdlib/commit/91248c1ce18881e1be702dfc9788c0612c37a966) - add `fft/base/fftpack/float32/rffti` [(#14591)](https://github.com/stdlib-js/stdlib/pull/14591)
@@ -193,6 +196,9 @@
 
 <details>
 
+-   [`95e749f`](https://github.com/stdlib-js/stdlib/commit/95e749f07da6717d231585bba335bfbf59f10104) - **feat:** add `fft/base/fftpack/ndarray/float32/rffti` [(#14085)](https://github.com/stdlib-js/stdlib/pull/14085) _(by Gunj Joshi)_
+-   [`13d01a9`](https://github.com/stdlib-js/stdlib/commit/13d01a960d64ecbf63628e52451b29cc27505eec) - **feat:** update `fft/base/fftpack/float32` TypeScript declarations [(#14641)](https://github.com/stdlib-js/stdlib/pull/14641) _(by stdlib-bot)_
+-   [`a97d043`](https://github.com/stdlib-js/stdlib/commit/a97d043bda55fdd63e6d722a4feeb7c062a230d8) - **feat:** update `fft/base/fftpack/ndarray/generic` TypeScript declarations [(#14642)](https://github.com/stdlib-js/stdlib/pull/14642) _(by stdlib-bot)_
 -   [`436e791`](https://github.com/stdlib-js/stdlib/commit/436e791d013826eecbf13e2cf25a2037369fce10) - **docs:** update namespace table of contents [(#14643)](https://github.com/stdlib-js/stdlib/pull/14643) _(by stdlib-bot)_
 -   [`8654861`](https://github.com/stdlib-js/stdlib/commit/86548615a074f6e93475822200e291e95ca7761a) - **feat:** add `rffti` to namespace _(by Athan Reines)_
 -   [`782bab2`](https://github.com/stdlib-js/stdlib/commit/782bab28a3ac0b9b5cfdbc860dad05bcf23f3d25) - **feat:** add `cosqi` and `sinqi` to namespace _(by Athan Reines)_
