@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-30)
+## Unreleased (2026-09-04)
 
 <section class="features">
 
 ### Features
 
+-   [`61956b3`](https://github.com/stdlib-js/stdlib/commit/61956b30de14ee2edb75722c3c8f9ed87dda9c9c) - add `fft/base/fftpack/float32/cosqi` [(#14786)](https://github.com/stdlib-js/stdlib/pull/14786)
 -   [`b809da8`](https://github.com/stdlib-js/stdlib/commit/b809da80e4dc82c44fc21d2d0709dda190508fb4) - add `fft/base/fftpack/float64/sinqi` [(#14807)](https://github.com/stdlib-js/stdlib/pull/14807)
 -   [`680eb10`](https://github.com/stdlib-js/stdlib/commit/680eb103c3adad94cace14630bdf1113b7721654) - add `fft/base/fftpack/float64/cosqi` [(#14785)](https://github.com/stdlib-js/stdlib/pull/14785)
 -   [`95e749f`](https://github.com/stdlib-js/stdlib/commit/95e749f07da6717d231585bba335bfbf59f10104) - add `fft/base/fftpack/ndarray/float32/rffti` [(#14085)](https://github.com/stdlib-js/stdlib/pull/14085)
@@ -198,6 +199,7 @@
 
 <details>
 
+-   [`61956b3`](https://github.com/stdlib-js/stdlib/commit/61956b30de14ee2edb75722c3c8f9ed87dda9c9c) - **feat:** add `fft/base/fftpack/float32/cosqi` [(#14786)](https://github.com/stdlib-js/stdlib/pull/14786) _(by Gunj Joshi)_
 -   [`b809da8`](https://github.com/stdlib-js/stdlib/commit/b809da80e4dc82c44fc21d2d0709dda190508fb4) - **feat:** add `fft/base/fftpack/float64/sinqi` [(#14807)](https://github.com/stdlib-js/stdlib/pull/14807) _(by Gunj Joshi)_
 -   [`680eb10`](https://github.com/stdlib-js/stdlib/commit/680eb103c3adad94cace14630bdf1113b7721654) - **feat:** add `fft/base/fftpack/float64/cosqi` [(#14785)](https://github.com/stdlib-js/stdlib/pull/14785) _(by Gunj Joshi)_
 -   [`95e749f`](https://github.com/stdlib-js/stdlib/commit/95e749f07da6717d231585bba335bfbf59f10104) - **feat:** add `fft/base/fftpack/ndarray/float32/rffti` [(#14085)](https://github.com/stdlib-js/stdlib/pull/14085) _(by Gunj Joshi)_
