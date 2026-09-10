@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`5611f3c`](https://github.com/stdlib-js/stdlib/commit/5611f3ce65c70238ce7f032dfaea104745f6be4f) - add `fft/base/fftpack/ndarray/float64/cosqi` [(#14095)](https://github.com/stdlib-js/stdlib/pull/14095)
 -   [`ed8ea0c`](https://github.com/stdlib-js/stdlib/commit/ed8ea0c7808eec0735fa06e3f9929531e21e8f82) - add `fft/base/fftpack/float32/sinqi` [(#14808)](https://github.com/stdlib-js/stdlib/pull/14808)
 -   [`61956b3`](https://github.com/stdlib-js/stdlib/commit/61956b30de14ee2edb75722c3c8f9ed87dda9c9c) - add `fft/base/fftpack/float32/cosqi` [(#14786)](https://github.com/stdlib-js/stdlib/pull/14786)
 -   [`b809da8`](https://github.com/stdlib-js/stdlib/commit/b809da80e4dc82c44fc21d2d0709dda190508fb4) - add `fft/base/fftpack/float64/sinqi` [(#14807)](https://github.com/stdlib-js/stdlib/pull/14807)
@@ -200,6 +201,7 @@
 
 <details>
 
+-   [`5611f3c`](https://github.com/stdlib-js/stdlib/commit/5611f3ce65c70238ce7f032dfaea104745f6be4f) - **feat:** add `fft/base/fftpack/ndarray/float64/cosqi` [(#14095)](https://github.com/stdlib-js/stdlib/pull/14095) _(by Gunj Joshi, Athan Reines)_
 -   [`ed8ea0c`](https://github.com/stdlib-js/stdlib/commit/ed8ea0c7808eec0735fa06e3f9929531e21e8f82) - **feat:** add `fft/base/fftpack/float32/sinqi` [(#14808)](https://github.com/stdlib-js/stdlib/pull/14808) _(by Gunj Joshi, Athan Reines)_
 -   [`61956b3`](https://github.com/stdlib-js/stdlib/commit/61956b30de14ee2edb75722c3c8f9ed87dda9c9c) - **feat:** add `fft/base/fftpack/float32/cosqi` [(#14786)](https://github.com/stdlib-js/stdlib/pull/14786) _(by Gunj Joshi)_
 -   [`b809da8`](https://github.com/stdlib-js/stdlib/commit/b809da80e4dc82c44fc21d2d0709dda190508fb4) - **feat:** add `fft/base/fftpack/float64/sinqi` [(#14807)](https://github.com/stdlib-js/stdlib/pull/14807) _(by Gunj Joshi)_
