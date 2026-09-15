@@ -205,6 +205,7 @@
 
 <details>
 
+-   [`7099552`](https://github.com/stdlib-js/stdlib/commit/7099552f0144bc0c4ab8aa5afc68796d14b469a6) - **docs:** remove duplicate lines [(#15246)](https://github.com/stdlib-js/stdlib/pull/15246) _(by Gunj Joshi)_
 -   [`a697555`](https://github.com/stdlib-js/stdlib/commit/a697555175a55d741bf5716b425a1b735b8de8c2) - **refactor:** update `fft/base/fftpack/float32/decompose` to use integer array view [(#15224)](https://github.com/stdlib-js/stdlib/pull/15224) _(by Gunj Joshi, Athan Reines)_
 -   [`75586a9`](https://github.com/stdlib-js/stdlib/commit/75586a917959100877037f53fef14bd4037ccf17) - **docs:** update the notes of `fft/base/fftpack/ndarray/*` packages [(#15220)](https://github.com/stdlib-js/stdlib/pull/15220) _(by Gunj Joshi)_
 -   [`5611f3c`](https://github.com/stdlib-js/stdlib/commit/5611f3ce65c70238ce7f032dfaea104745f6be4f) - **feat:** add `fft/base/fftpack/ndarray/float64/cosqi` [(#14095)](https://github.com/stdlib-js/stdlib/pull/14095) _(by Gunj Joshi, Athan Reines)_
