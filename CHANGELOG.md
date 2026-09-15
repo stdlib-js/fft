@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-10)
+## Unreleased (2026-09-15)
 
 <section class="features">
 
@@ -201,6 +201,7 @@
 
 <details>
 
+-   [`75586a9`](https://github.com/stdlib-js/stdlib/commit/75586a917959100877037f53fef14bd4037ccf17) - **docs:** update the notes of `fft/base/fftpack/ndarray/*` packages [(#15220)](https://github.com/stdlib-js/stdlib/pull/15220) _(by Gunj Joshi)_
 -   [`5611f3c`](https://github.com/stdlib-js/stdlib/commit/5611f3ce65c70238ce7f032dfaea104745f6be4f) - **feat:** add `fft/base/fftpack/ndarray/float64/cosqi` [(#14095)](https://github.com/stdlib-js/stdlib/pull/14095) _(by Gunj Joshi, Athan Reines)_
 -   [`ed8ea0c`](https://github.com/stdlib-js/stdlib/commit/ed8ea0c7808eec0735fa06e3f9929531e21e8f82) - **feat:** add `fft/base/fftpack/float32/sinqi` [(#14808)](https://github.com/stdlib-js/stdlib/pull/14808) _(by Gunj Joshi, Athan Reines)_
 -   [`61956b3`](https://github.com/stdlib-js/stdlib/commit/61956b30de14ee2edb75722c3c8f9ed87dda9c9c) - **feat:** add `fft/base/fftpack/float32/cosqi` [(#14786)](https://github.com/stdlib-js/stdlib/pull/14786) _(by Gunj Joshi)_
