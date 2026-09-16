@@ -209,6 +209,7 @@
 
 <details>
 
+-   [`268814f`](https://github.com/stdlib-js/stdlib/commit/268814f8b0e017504112dd6e50e7836644273f6f) - **docs:** update namespace table of contents [(#15259)](https://github.com/stdlib-js/stdlib/pull/15259) _(by stdlib-bot)_
 -   [`7333861`](https://github.com/stdlib-js/stdlib/commit/7333861bf0de5054a329c9941c92a46d716be4ce) - **refactor:** update `fft/base/fftpack/float32/rffti` to use integer array view [(#15247)](https://github.com/stdlib-js/stdlib/pull/15247) _(by Gunj Joshi, Athan Reines)_
 -   [`7099552`](https://github.com/stdlib-js/stdlib/commit/7099552f0144bc0c4ab8aa5afc68796d14b469a6) - **docs:** remove duplicate lines [(#15246)](https://github.com/stdlib-js/stdlib/pull/15246) _(by Gunj Joshi)_
 -   [`a697555`](https://github.com/stdlib-js/stdlib/commit/a697555175a55d741bf5716b425a1b735b8de8c2) - **refactor:** update `fft/base/fftpack/float32/decompose` to use integer array view [(#15224)](https://github.com/stdlib-js/stdlib/pull/15224) _(by Gunj Joshi, Athan Reines)_
