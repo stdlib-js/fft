@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-18)
+## Unreleased (2026-09-23)
 
 <section class="features">
 
@@ -219,6 +219,7 @@
 
 <details>
 
+-   [`f0a7110`](https://github.com/stdlib-js/stdlib/commit/f0a711069422fe57562b2e7390e64f874758361e) - **docs:** update links in `fft/base/fftpack/generic/rfftf` [(#15397)](https://github.com/stdlib-js/stdlib/pull/15397) _(by Gunj Joshi)_
 -   [`0061913`](https://github.com/stdlib-js/stdlib/commit/0061913d2e65266d30537fb1548e1a7da6c73dfd) - **feat:** update `fft/base/fftpack/float32` TypeScript declarations [(#15287)](https://github.com/stdlib-js/stdlib/pull/15287) _(by stdlib-bot)_
 -   [`625cd5d`](https://github.com/stdlib-js/stdlib/commit/625cd5d8f466e2e7312306a9d731634c9e77f4ce) - **docs:** update namespace table of contents [(#15288)](https://github.com/stdlib-js/stdlib/pull/15288) _(by stdlib-bot)_
 -   [`bbf5576`](https://github.com/stdlib-js/stdlib/commit/bbf55760716ee0e6d0eb5f74b4ac22390257475f) - **feat:** update `fft/base/fftpack/float32` TypeScript declarations [(#15258)](https://github.com/stdlib-js/stdlib/pull/15258) _(by stdlib-bot)_
