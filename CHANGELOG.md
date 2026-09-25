@@ -10,6 +10,8 @@
 
 ### Features
 
+-   [`61a90f6`](https://github.com/stdlib-js/stdlib/commit/61a90f65dd234c3877b1abfbf977273ac8d62a74) - add `rfftf` to namespace
+-   [`cc80daa`](https://github.com/stdlib-js/stdlib/commit/cc80daa661dc09bfdfa0ac4eb9102a3ecdfb5582) - add `rfftf` to namespace
 -   [`dd0bcfd`](https://github.com/stdlib-js/stdlib/commit/dd0bcfdc512d196f38a619b017b6c05b6eb9a7b8) - add `fft/base/fftpack/ndarray/generic/rfftf` [(#15395)](https://github.com/stdlib-js/stdlib/pull/15395)
 -   [`11f8bc3`](https://github.com/stdlib-js/stdlib/commit/11f8bc38811058795878ab3610a38a9c516abd0f) - add `fft/base/fftpack/float32/rfftf` [(#15379)](https://github.com/stdlib-js/stdlib/pull/15379)
 -   [`f359729`](https://github.com/stdlib-js/stdlib/commit/f359729044af2b432f451e293f96451d60080562) - update `fft/base/fftpack/float64` TypeScript declarations [(#15520)](https://github.com/stdlib-js/stdlib/pull/15520)
@@ -224,6 +226,8 @@
 
 <details>
 
+-   [`61a90f6`](https://github.com/stdlib-js/stdlib/commit/61a90f65dd234c3877b1abfbf977273ac8d62a74) - **feat:** add `rfftf` to namespace _(by Athan Reines)_
+-   [`cc80daa`](https://github.com/stdlib-js/stdlib/commit/cc80daa661dc09bfdfa0ac4eb9102a3ecdfb5582) - **feat:** add `rfftf` to namespace _(by Athan Reines)_
 -   [`dd0bcfd`](https://github.com/stdlib-js/stdlib/commit/dd0bcfdc512d196f38a619b017b6c05b6eb9a7b8) - **feat:** add `fft/base/fftpack/ndarray/generic/rfftf` [(#15395)](https://github.com/stdlib-js/stdlib/pull/15395) _(by Gunj Joshi, Athan Reines)_
 -   [`ae07386`](https://github.com/stdlib-js/stdlib/commit/ae073862b04de49bc0464c20faa89b3ab0e91023) - **docs:** update namespace table of contents [(#15521)](https://github.com/stdlib-js/stdlib/pull/15521) _(by stdlib-bot)_
 -   [`11f8bc3`](https://github.com/stdlib-js/stdlib/commit/11f8bc38811058795878ab3610a38a9c516abd0f) - **feat:** add `fft/base/fftpack/float32/rfftf` [(#15379)](https://github.com/stdlib-js/stdlib/pull/15379) _(by Gunj Joshi, Athan Reines)_

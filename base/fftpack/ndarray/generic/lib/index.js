@@ -55,6 +55,15 @@ setReadOnly( ns, 'cffti', require( './../../../../../base/fftpack/ndarray/generi
 setReadOnly( ns, 'cosqi', require( './../../../../../base/fftpack/ndarray/generic/cosqi' ) );
 
 /**
+* @name rfftf
+* @memberof ns
+* @readonly
+* @type {Function}
+* @see {@link module:@stdlib/fft/base/fftpack/ndarray/generic/rfftf}
+*/
+setReadOnly( ns, 'rfftf', require( './../../../../../base/fftpack/ndarray/generic/rfftf' ) );
+
+/**
 * @name rffti
 * @memberof ns
 * @readonly
