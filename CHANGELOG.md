@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-25)
+## Unreleased (2026-09-26)
 
 <section class="features">
 
@@ -226,6 +226,7 @@
 
 <details>
 
+-   [`62cbbac`](https://github.com/stdlib-js/stdlib/commit/62cbbac0f25dddf13b832a1de15d11f2ddad03ca) - **docs:** fix description [(#15542)](https://github.com/stdlib-js/stdlib/pull/15542) _(by Gunj Joshi, Athan Reines)_
 -   [`61a90f6`](https://github.com/stdlib-js/stdlib/commit/61a90f65dd234c3877b1abfbf977273ac8d62a74) - **feat:** add `rfftf` to namespace _(by Athan Reines)_
 -   [`cc80daa`](https://github.com/stdlib-js/stdlib/commit/cc80daa661dc09bfdfa0ac4eb9102a3ecdfb5582) - **feat:** add `rfftf` to namespace _(by Athan Reines)_
 -   [`dd0bcfd`](https://github.com/stdlib-js/stdlib/commit/dd0bcfdc512d196f38a619b017b6c05b6eb9a7b8) - **feat:** add `fft/base/fftpack/ndarray/generic/rfftf` [(#15395)](https://github.com/stdlib-js/stdlib/pull/15395) _(by Gunj Joshi, Athan Reines)_
