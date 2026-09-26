@@ -41,18 +41,18 @@ var ns = {};
 * @memberof ns
 * @readonly
 * @type {Function}
-* @see {@link module:@stdlib/fft/base/fftpack/ndarray/float64/rfftf}
+* @see {@link module:@stdlib/fft/base/fftpack/ndarray/float32/rfftf}
 */
-setReadOnly( ns, 'rfftf', require( './../../../../../base/fftpack/ndarray/float64/rfftf' ) );
+setReadOnly( ns, 'rfftf', require( './../../../../../base/fftpack/ndarray/float32/rfftf' ) );
 
 /**
 * @name rffti
 * @memberof ns
 * @readonly
 * @type {Function}
-* @see {@link module:@stdlib/fft/base/fftpack/ndarray/float64/rffti}
+* @see {@link module:@stdlib/fft/base/fftpack/ndarray/float32/rffti}
 */
-setReadOnly( ns, 'rffti', require( './../../../../../base/fftpack/ndarray/float64/rffti' ) );
+setReadOnly( ns, 'rffti', require( './../../../../../base/fftpack/ndarray/float32/rffti' ) );
 
 
 // EXPORTS //
