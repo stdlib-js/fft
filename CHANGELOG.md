@@ -228,6 +228,7 @@
 
 <details>
 
+-   [`5a64ba7`](https://github.com/stdlib-js/stdlib/commit/5a64ba797591937f32a349ce251853787c251b6e) - **docs:** update namespace table of contents [(#15554)](https://github.com/stdlib-js/stdlib/pull/15554) _(by stdlib-bot)_
 -   [`1161415`](https://github.com/stdlib-js/stdlib/commit/11614155786581571f7a05f3a444c5ee560e51ce) - **feat:** update `fft/base/fftpack/ndarray/generic` TypeScript declarations [(#15552)](https://github.com/stdlib-js/stdlib/pull/15552) _(by stdlib-bot)_
 -   [`8b79b91`](https://github.com/stdlib-js/stdlib/commit/8b79b919e9514ddaff25acddef991b4bbc16b8bd) - **feat:** update `fft/base/fftpack/float32` TypeScript declarations [(#15551)](https://github.com/stdlib-js/stdlib/pull/15551) _(by stdlib-bot)_
 -   [`62cbbac`](https://github.com/stdlib-js/stdlib/commit/62cbbac0f25dddf13b832a1de15d11f2ddad03ca) - **docs:** fix description [(#15542)](https://github.com/stdlib-js/stdlib/pull/15542) _(by Gunj Joshi, Athan Reines)_
