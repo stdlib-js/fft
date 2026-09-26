@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`45e130f`](https://github.com/stdlib-js/stdlib/commit/45e130fcc846626c9335fe8aeba50ab22df37b0b) - add `fft/base/fftpack/ndarray/float32/rfftf` [(#15540)](https://github.com/stdlib-js/stdlib/pull/15540)
 -   [`5ebbb6a`](https://github.com/stdlib-js/stdlib/commit/5ebbb6a4f2bd516554edd41c29ef1164f2b1d337) - add `fft/base/fftpack/ndarray/float64/rfftf` [(#15539)](https://github.com/stdlib-js/stdlib/pull/15539)
 -   [`1161415`](https://github.com/stdlib-js/stdlib/commit/11614155786581571f7a05f3a444c5ee560e51ce) - update `fft/base/fftpack/ndarray/generic` TypeScript declarations [(#15552)](https://github.com/stdlib-js/stdlib/pull/15552)
 -   [`8b79b91`](https://github.com/stdlib-js/stdlib/commit/8b79b919e9514ddaff25acddef991b4bbc16b8bd) - update `fft/base/fftpack/float32` TypeScript declarations [(#15551)](https://github.com/stdlib-js/stdlib/pull/15551)
@@ -229,6 +230,7 @@
 
 <details>
 
+-   [`45e130f`](https://github.com/stdlib-js/stdlib/commit/45e130fcc846626c9335fe8aeba50ab22df37b0b) - **feat:** add `fft/base/fftpack/ndarray/float32/rfftf` [(#15540)](https://github.com/stdlib-js/stdlib/pull/15540) _(by Gunj Joshi)_
 -   [`5ebbb6a`](https://github.com/stdlib-js/stdlib/commit/5ebbb6a4f2bd516554edd41c29ef1164f2b1d337) - **feat:** add `fft/base/fftpack/ndarray/float64/rfftf` [(#15539)](https://github.com/stdlib-js/stdlib/pull/15539) _(by Gunj Joshi)_
 -   [`5a64ba7`](https://github.com/stdlib-js/stdlib/commit/5a64ba797591937f32a349ce251853787c251b6e) - **docs:** update namespace table of contents [(#15554)](https://github.com/stdlib-js/stdlib/pull/15554) _(by stdlib-bot)_
 -   [`1161415`](https://github.com/stdlib-js/stdlib/commit/11614155786581571f7a05f3a444c5ee560e51ce) - **feat:** update `fft/base/fftpack/ndarray/generic` TypeScript declarations [(#15552)](https://github.com/stdlib-js/stdlib/pull/15552) _(by stdlib-bot)_
