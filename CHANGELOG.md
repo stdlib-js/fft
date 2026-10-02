@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`8dc011f`](https://github.com/stdlib-js/stdlib/commit/8dc011f4765ab2328269afb8b97212d3b55518ad) - add `fft/base/fftpack/float32/hc2c` [(#15758)](https://github.com/stdlib-js/stdlib/pull/15758)
 -   [`a9f2296`](https://github.com/stdlib-js/stdlib/commit/a9f2296e134fdcb3e3608b894113dc71db0473a2) - add `fft/base/fftpack/generic/hc2c` [(#15704)](https://github.com/stdlib-js/stdlib/pull/15704)
 -   [`b148910`](https://github.com/stdlib-js/stdlib/commit/b1489107d073efb157547f41a2ea54406acae91a) - add `fft/base/fftpack/ndarray/float64/sinqi` [(#14284)](https://github.com/stdlib-js/stdlib/pull/14284)
 -   [`fcf7dc0`](https://github.com/stdlib-js/stdlib/commit/fcf7dc067b75cb36247d5e1ecd260a111928595e) - update `fft/base/fftpack/ndarray` TypeScript declarations [(#15583)](https://github.com/stdlib-js/stdlib/pull/15583)
@@ -237,6 +238,7 @@
 
 <details>
 
+-   [`8dc011f`](https://github.com/stdlib-js/stdlib/commit/8dc011f4765ab2328269afb8b97212d3b55518ad) - **feat:** add `fft/base/fftpack/float32/hc2c` [(#15758)](https://github.com/stdlib-js/stdlib/pull/15758) _(by Gunj Joshi)_
 -   [`a9f2296`](https://github.com/stdlib-js/stdlib/commit/a9f2296e134fdcb3e3608b894113dc71db0473a2) - **feat:** add `fft/base/fftpack/generic/hc2c` [(#15704)](https://github.com/stdlib-js/stdlib/pull/15704) _(by Gunj Joshi, Athan Reines)_
 -   [`b148910`](https://github.com/stdlib-js/stdlib/commit/b1489107d073efb157547f41a2ea54406acae91a) - **feat:** add `fft/base/fftpack/ndarray/float64/sinqi` [(#14284)](https://github.com/stdlib-js/stdlib/pull/14284) _(by Gunj Joshi)_
 -   [`fcf7dc0`](https://github.com/stdlib-js/stdlib/commit/fcf7dc067b75cb36247d5e1ecd260a111928595e) - **feat:** update `fft/base/fftpack/ndarray` TypeScript declarations [(#15583)](https://github.com/stdlib-js/stdlib/pull/15583) _(by stdlib-bot)_
