@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-13)
+## Unreleased (2026-10-30)
 
 <section class="features">
 
@@ -117,6 +117,10 @@
 <section class="breaking-changes">
 
 ### BREAKING CHANGES
+
+-   [`518731b`](https://github.com/stdlib-js/stdlib/commit/518731be8f6175e403a1dbf010b9dcea6d20b4df): use `Uint32Array` view
+
+    -   To migrate, consumers should create a `Uint32Array` view of the factors section. This ensures we preserve accuracy for larger sequence lengths.
 
 -   [`470ed70`](https://github.com/stdlib-js/stdlib/commit/470ed70e05e98c76ef7a854dc078cece2a060442): require accessing factors as a Uint32Array view
 
@@ -243,7 +247,8 @@
 
 <details>
 
--   [`470ed70`](https://github.com/stdlib-js/stdlib/commit/470ed70e05e98c76ef7a854dc078cece2a060442) - **refactor:** `update fft/base/fftpack/float32/cosqi` to use integer array view [(#15329)](https://github.com/stdlib-js/stdlib/pull/15329) _(by Gunj Joshi)_
+-   [`518731b`](https://github.com/stdlib-js/stdlib/commit/518731be8f6175e403a1dbf010b9dcea6d20b4df) - **refactor:** update `fft/base/fftpack/float32/sinqi` to use integer array view [(#16361)](https://github.com/stdlib-js/stdlib/pull/16361) _(by Gunj Joshi, Athan Reines)_
+-   [`470ed70`](https://github.com/stdlib-js/stdlib/commit/470ed70e05e98c76ef7a854dc078cece2a060442) - **refactor:** update `fft/base/fftpack/float32/cosqi` to use integer array view [(#15329)](https://github.com/stdlib-js/stdlib/pull/15329) _(by Gunj Joshi)_
 -   [`62cde7f`](https://github.com/stdlib-js/stdlib/commit/62cde7f49867b8fc9a8c9d3e6cd3c4893ace1224) - **feat:** add `fft/base/fftpack/float64/hc2c` [(#15755)](https://github.com/stdlib-js/stdlib/pull/15755) _(by Gunj Joshi)_
 -   [`8dc011f`](https://github.com/stdlib-js/stdlib/commit/8dc011f4765ab2328269afb8b97212d3b55518ad) - **feat:** add `fft/base/fftpack/float32/hc2c` [(#15758)](https://github.com/stdlib-js/stdlib/pull/15758) _(by Gunj Joshi)_
 -   [`a9f2296`](https://github.com/stdlib-js/stdlib/commit/a9f2296e134fdcb3e3608b894113dc71db0473a2) - **feat:** add `fft/base/fftpack/generic/hc2c` [(#15704)](https://github.com/stdlib-js/stdlib/pull/15704) _(by Gunj Joshi, Athan Reines)_
