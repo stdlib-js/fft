@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-30)
+## Unreleased (2026-11-12)
 
 <section class="features">
 
@@ -248,6 +248,8 @@
 
 <details>
 
+-   [`62f4966`](https://github.com/stdlib-js/stdlib/commit/62f49668bfba6400506faf29ed1c142ed9d78365) - **test:** read integer factors via `Uint32Array` view [(#16523)](https://github.com/stdlib-js/stdlib/pull/16523) _(by Philipp Burckhardt, Gunj Joshi)_
+-   [`78ad2fa`](https://github.com/stdlib-js/stdlib/commit/78ad2fa5dbb12ce808dec93197d5343745ff91b8) - **docs:** normalize trailing newlines in REPL help texts [(#16420)](https://github.com/stdlib-js/stdlib/pull/16420) _(by Philipp Burckhardt)_
 -   [`d8f95cc`](https://github.com/stdlib-js/stdlib/commit/d8f95cc00bdf31588810b113bfba80f17df7ff5a) - **feat:** add `fft/fftpack/rffti` [(#16338)](https://github.com/stdlib-js/stdlib/pull/16338) _(by Gunj Joshi, Athan Reines)_
 -   [`518731b`](https://github.com/stdlib-js/stdlib/commit/518731be8f6175e403a1dbf010b9dcea6d20b4df) - **refactor:** update `fft/base/fftpack/float32/sinqi` to use integer array view [(#16361)](https://github.com/stdlib-js/stdlib/pull/16361) _(by Gunj Joshi, Athan Reines)_
 -   [`470ed70`](https://github.com/stdlib-js/stdlib/commit/470ed70e05e98c76ef7a854dc078cece2a060442) - **refactor:** update `fft/base/fftpack/float32/cosqi` to use integer array view [(#15329)](https://github.com/stdlib-js/stdlib/pull/15329) _(by Gunj Joshi)_
